@@ -511,7 +511,7 @@ int _tmain(int argc, _TCHAR* argv[])
 				cout << endl << endl;
 				cout << "________________________________________________________________________________________"
 					<< endl << endl << lightYears << " Light Years is equal to "
-					<< AU << " AU." << endl 
+					<< AU << " AU." << endl << endl 
 					<< Leagues << " Leagues." << endl << endl
 					<< Miles << " Miles." << endl << endl
 					<< PD << " Parsecs." << endl << endl << "(for KPC multiply or divide Parsecs by 1,000 for MPC 1,000,000)"
